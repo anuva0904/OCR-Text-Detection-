@@ -1,4 +1,3 @@
-# OCR-Text-Detection
 # OCR Text Detection with EasyOCR and OpenCV
 
 This Python project uses and OpenCV to detect and annotate text from images. It's a simple, easy-to-follow example for anyone looking to get started with Optical Character Recognition (OCR) in Python.
